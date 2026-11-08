@@ -1,0 +1,17 @@
+# Student biometric data
+project_1-Attendence-system/student_data/
+
+# Datasets
+project_1-Attendence-system/dataset/
+
+# Generated models and embeddings
+project_1-Attendence-system/models/*.npz
+project_1-Attendence-system/models/*.pth
+project_1-Attendence-system/models/*.pt
+project_1-Attendence-system/models/*.yml
+project_1-Attendence-system/models/*.onnx
+project_1-Attendence-system/models/*.json
+
+# Python cache
+__pycache__/
+*.pyc
