@@ -10,7 +10,8 @@ from insightface.app import FaceAnalysis
 BASE_DIR = Path(__file__).resolve().parent.parent
 STUDENT_DIR = BASE_DIR / "student_data"
 
-IMAGE_COUNT = 30
+IMAGE_COUNT = 10
+
 
 # =====================================
 # 2. LOAD INSIGHTFACE

@@ -15,3 +15,23 @@ project_1-Attendence-system/models/*.json
 # Python cache
 __pycache__/
 *.pyc
+
+# Private attendance records
+attendance.db
+attendance.csv
+attendance_test.csv
+attendance_report.xlsx
+attendance_*.csv
+attendance_*.xlsx
+
+# Student biometric information
+student_data/
+*.npz
+
+# Private environment files
+.env
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc

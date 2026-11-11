@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+numpy
+pandas
+Pillow
+insightface
+onnxruntime
+torch
+torchvision
+openpyxl
