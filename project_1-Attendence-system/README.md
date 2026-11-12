@@ -1,6 +1,21 @@
 
 # AI-Based Student Attendance Management System
 
+## 🌐 Live Demo
+
+**Try the application:** https://attendance-demo.streamlit.app/
+
+This public demonstration uses sample student accounts and simulated attendance. Face recognition is disabled in the demo. No real student biometric data is used.
+
+### Demo Login Credentials
+
+| Role | Username | Password |
+|---|---|---|
+| Admin | admin | demo123 |
+| Student | demo_student1 | demo123 |
+| Student | demo_student2 | demo123 |
+| Student | demo_student3 | demo123 |
+
 ## 1. Project Overview
 
 The AI-Based Student Attendance Management System is a facial recognition-based attendance application designed to automate student attendance recording.
