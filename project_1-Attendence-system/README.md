@@ -184,3 +184,17 @@ These files should not be uploaded to a public GitHub repository. Use appropriat
 ## 13. Author
 
 Developed as part of the ElevanceSkills Machine Learning Internship.
+
+## 14. Application Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+### Student Dashboard
+![Student Dashboard](screenshots/student_dashboard.png)
+
+### Attendance Report
+![Attendance Report](screenshots/attendance_report.png)
