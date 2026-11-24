@@ -1,3 +1,4 @@
+
 from pathlib import Path
 
 import cv2
@@ -16,9 +17,10 @@ YOLO_MODEL_PATH = (
     / "weights" / "best.pt"
 )
 
-SPECIESNET_MODEL_PATH = (
-    Path.home() / ".cache" / "kagglehub" / "models"
-    / "google" / "speciesnet" / "pyTorch" / "v4.0.3a" / "1"
+# Official SpeciesNet model identifier.
+# The model downloads automatically if it is not cached.
+SPECIESNET_MODEL_NAME = (
+    "kaggle:google/speciesnet/pyTorch/v4.0.3a/1"
 )
 
 YOLO_CONFIDENCE = 0.25
@@ -43,16 +45,12 @@ def load_models():
             raise FileNotFoundError(
                 f"YOLO model not found: {YOLO_MODEL_PATH}"
             )
+
         _yolo_model = YOLO(str(YOLO_MODEL_PATH))
 
     if _speciesnet_model is None:
-        if not SPECIESNET_MODEL_PATH.exists():
-            raise FileNotFoundError(
-                f"SpeciesNet model not found: {SPECIESNET_MODEL_PATH}"
-            )
-
         _speciesnet_model = SpeciesNet(
-            model_name=str(SPECIESNET_MODEL_PATH),
+            model_name=SPECIESNET_MODEL_NAME,
             components="all",
             multiprocessing=False
         )
@@ -391,7 +389,6 @@ def detect_animals_hybrid(image_path):
             2
         )
 
-        # Show species classification confidence when available.
         display_confidence = (
             detection["classification_score"]
             if detection["classification_score"] > 0
