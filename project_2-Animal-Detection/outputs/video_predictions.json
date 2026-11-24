@@ -1,0 +1,3789 @@
+{
+ "info": {
+  "format_version": "20261015"
+ },
+ "predictions": [
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0000.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9675,
+     "bbox": [
+      0.0,
+      0.4551,
+      0.3921,
+      0.27
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9904,
+       0.0029
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9904,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9586,
+     "bbox": [
+      0.4194,
+      0.4775,
+      0.4051,
+      0.2422
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "c134e0ab-cf96-45ec-bae6-60b94995f71b;mammalia;artiodactyla;bovidae;aepyceros;melampus;impala"
+      ],
+      "scores": [
+       0.9107,
+       0.0331
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9107,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0001.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9678,
+     "bbox": [
+      0.0,
+      0.4539,
+      0.3958,
+      0.2708
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9798,
+       0.007
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9798,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9567,
+     "bbox": [
+      0.4241,
+      0.4768,
+      0.3954,
+      0.2407
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9682,
+       0.0107
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9682,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0002.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9687,
+     "bbox": [
+      0.0,
+      0.4509,
+      0.3954,
+      0.2708
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.978,
+       0.0068
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.978,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.965,
+     "bbox": [
+      0.4282,
+      0.4744,
+      0.3898,
+      0.2402
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "c134e0ab-cf96-45ec-bae6-60b94995f71b;mammalia;artiodactyla;bovidae;aepyceros;melampus;impala"
+      ],
+      "scores": [
+       0.815,
+       0.1223
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.815,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0003.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9702,
+     "bbox": [
+      0.0,
+      0.447,
+      0.3995,
+      0.2715
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9708,
+       0.0102
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9708,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9624,
+     "bbox": [
+      0.4375,
+      0.4702,
+      0.3662,
+      0.2419
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "c134e0ab-cf96-45ec-bae6-60b94995f71b;mammalia;artiodactyla;bovidae;aepyceros;melampus;impala"
+      ],
+      "scores": [
+       0.8024,
+       0.1196
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.8024,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0004.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9677,
+     "bbox": [
+      0.0,
+      0.4438,
+      0.4116,
+      0.2725
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "c134e0ab-cf96-45ec-bae6-60b94995f71b;mammalia;artiodactyla;bovidae;aepyceros;melampus;impala"
+      ],
+      "scores": [
+       0.9651,
+       0.0112
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9651,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9603,
+     "bbox": [
+      0.4481,
+      0.468,
+      0.3676,
+      0.239
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "c134e0ab-cf96-45ec-bae6-60b94995f71b;mammalia;artiodactyla;bovidae;aepyceros;melampus;impala"
+      ],
+      "scores": [
+       0.8801,
+       0.0695
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.8801,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0005.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9635,
+     "bbox": [
+      0.0,
+      0.4399,
+      0.4157,
+      0.2695
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9607,
+       0.0143
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9607,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9534,
+     "bbox": [
+      0.4546,
+      0.4619,
+      0.381,
+      0.2395
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "c134e0ab-cf96-45ec-bae6-60b94995f71b;mammalia;artiodactyla;bovidae;aepyceros;melampus;impala"
+      ],
+      "scores": [
+       0.8937,
+       0.0537
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.8937,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0103,
+     "bbox": [
+      0.6625,
+      0.5269,
+      0.0801,
+      0.0281
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0006.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.963,
+     "bbox": [
+      0.0009,
+      0.4338,
+      0.4333,
+      0.2712
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.97,
+       0.0122
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.97,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9614,
+     "bbox": [
+      0.4718,
+      0.4553,
+      0.3806,
+      0.2415
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9745,
+       0.0084
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9745,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0007.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9673,
+     "bbox": [
+      0.0125,
+      0.4292,
+      0.4356,
+      0.2717
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9748,
+       0.0104
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9748,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9568,
+     "bbox": [
+      0.4838,
+      0.4531,
+      0.4134,
+      0.2397
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9815,
+       0.0079
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9815,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0008.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9651,
+     "bbox": [
+      0.0167,
+      0.4265,
+      0.4352,
+      0.2698
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9709,
+       0.0109
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9709,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9613,
+     "bbox": [
+      0.4903,
+      0.4507,
+      0.4162,
+      0.2385
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "c134e0ab-cf96-45ec-bae6-60b94995f71b;mammalia;artiodactyla;bovidae;aepyceros;melampus;impala"
+      ],
+      "scores": [
+       0.9288,
+       0.0245
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9288,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0009.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9664,
+     "bbox": [
+      0.019,
+      0.4241,
+      0.4347,
+      0.2695
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9753,
+       0.0093
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9753,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9648,
+     "bbox": [
+      0.4921,
+      0.4482,
+      0.4278,
+      0.2371
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.8001,
+       0.0829
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.8001,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0010.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9647,
+     "bbox": [
+      0.0171,
+      0.4197,
+      0.4352,
+      0.2703
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9742,
+       0.01
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9742,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9592,
+     "bbox": [
+      0.4903,
+      0.4453,
+      0.4278,
+      0.2361
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9197,
+       0.0411
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9197,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0011.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9632,
+     "bbox": [
+      0.0111,
+      0.4153,
+      0.4329,
+      0.27
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9693,
+       0.0127
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9693,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9602,
+     "bbox": [
+      0.4815,
+      0.4397,
+      0.4181,
+      0.2378
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.973,
+       0.0086
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.973,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0012.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9645,
+     "bbox": [
+      0.0023,
+      0.4109,
+      0.431,
+      0.2717
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9745,
+       0.0097
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9745,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9614,
+     "bbox": [
+      0.4741,
+      0.4355,
+      0.4093,
+      0.2383
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9771,
+       0.0097
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9771,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0013.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9645,
+     "bbox": [
+      0.0009,
+      0.4099,
+      0.4292,
+      0.272
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9815,
+       0.0082
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9815,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9618,
+     "bbox": [
+      0.4731,
+      0.4368,
+      0.388,
+      0.2344
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9703,
+       0.0097
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9703,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0014.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9642,
+     "bbox": [
+      0.0009,
+      0.4065,
+      0.4296,
+      0.2732
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9685,
+       0.0143
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9685,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9398,
+     "bbox": [
+      0.4806,
+      0.4375,
+      0.3477,
+      0.2307
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9863,
+       0.0047
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9863,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.068,
+     "bbox": [
+      0.9875,
+      0.52,
+      0.012,
+      0.0273
+     ]
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0154,
+     "bbox": [
+      0.9843,
+      0.5005,
+      0.0157,
+      0.0464
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0015.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.966,
+     "bbox": [
+      0.0032,
+      0.4067,
+      0.4329,
+      0.2715
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9748,
+       0.0115
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9748,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9089,
+     "bbox": [
+      0.4931,
+      0.4368,
+      0.2977,
+      0.2295
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9535,
+       0.0207
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9535,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.8135,
+     "bbox": [
+      0.9139,
+      0.4392,
+      0.0847,
+      0.1018
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9873,
+       0.0034
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9873,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0103,
+     "bbox": [
+      0.912,
+      0.4385,
+      0.088,
+      0.2212
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0016.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.967,
+     "bbox": [
+      0.0111,
+      0.4053,
+      0.4329,
+      0.2705
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9817,
+       0.0084
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9817,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9541,
+     "bbox": [
+      0.819,
+      0.4387,
+      0.1801,
+      0.2263
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9631,
+       0.0176
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9631,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.8805,
+     "bbox": [
+      0.5241,
+      0.436,
+      0.2398,
+      0.2302
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.8362,
+       0.0796
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.8362,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0017.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9622,
+     "bbox": [
+      0.0042,
+      0.4062,
+      0.4458,
+      0.2681
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9826,
+       0.0057
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9826,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.962,
+     "bbox": [
+      0.7454,
+      0.4351,
+      0.2537,
+      0.2283
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9855,
+       0.0077
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9855,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9551,
+     "bbox": [
+      0.5718,
+      0.4341,
+      0.1648,
+      0.2275
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.8966,
+       0.0384
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.8966,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0018.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9676,
+     "bbox": [
+      0.675,
+      0.436,
+      0.3241,
+      0.2339
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9803,
+       0.0055
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9803,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9672,
+     "bbox": [
+      0.0,
+      0.4194,
+      0.4495,
+      0.2568
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9846,
+       0.0047
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9846,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.8964,
+     "bbox": [
+      0.5833,
+      0.436,
+      0.1278,
+      0.2256
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9412,
+       0.0227
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9412,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0019.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9673,
+     "bbox": [
+      0.0,
+      0.428,
+      0.3944,
+      0.2485
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9848,
+       0.0037
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9848,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9671,
+     "bbox": [
+      0.5889,
+      0.4404,
+      0.4102,
+      0.2322
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9853,
+       0.0049
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9853,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.932,
+     "bbox": [
+      0.5292,
+      0.438,
+      0.1731,
+      0.2256
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9602,
+       0.013
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9602,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.7438,
+     "bbox": [
+      0.9394,
+      0.438,
+      0.0593,
+      0.0667
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.8218,
+       0.0601
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.8218,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0848,
+     "bbox": [
+      0.9361,
+      0.4377,
+      0.0634,
+      0.2314
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0020.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.945,
+     "bbox": [
+      0.5213,
+      0.4409,
+      0.4764,
+      0.2305
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9695,
+       0.0139
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9695,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9336,
+     "bbox": [
+      0.0,
+      0.4329,
+      0.2991,
+      0.2446
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9804,
+       0.0048
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9804,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9234,
+     "bbox": [
+      0.4759,
+      0.4373,
+      0.2144,
+      0.2256
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9752,
+       0.0113
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9752,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.5983,
+     "bbox": [
+      0.856,
+      0.4333,
+      0.1431,
+      0.1111
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9613,
+       0.0109
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9613,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0344,
+     "bbox": [
+      0.8514,
+      0.4382,
+      0.1477,
+      0.2295
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0021.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9529,
+     "bbox": [
+      0.4444,
+      0.4355,
+      0.4935,
+      0.2358
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9841,
+       0.0083
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9841,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9412,
+     "bbox": [
+      0.7741,
+      0.4285,
+      0.2255,
+      0.2366
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9791,
+       0.0066
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9791,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9109,
+     "bbox": [
+      0.0,
+      0.45,
+      0.2227,
+      0.2253
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "c134e0ab-cf96-45ec-bae6-60b94995f71b;mammalia;artiodactyla;bovidae;aepyceros;melampus;impala"
+      ],
+      "scores": [
+       0.8157,
+       0.074
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.8157,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.1729,
+     "bbox": [
+      0.5009,
+      0.4492,
+      0.2287,
+      0.2148
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9852,
+       0.0068
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9852,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0517,
+     "bbox": [
+      0.5245,
+      0.502,
+      0.1394,
+      0.1575
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0022.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9563,
+     "bbox": [
+      0.3801,
+      0.4346,
+      0.5037,
+      0.2358
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9817,
+       0.0096
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9817,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9175,
+     "bbox": [
+      0.6954,
+      0.4333,
+      0.3037,
+      0.2302
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9912,
+       0.0019
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9912,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.1607,
+     "bbox": [
+      0.5491,
+      0.5671,
+      0.1338,
+      0.0886
+     ],
+     "raw_classifications": {
+      "classes": [
+       "c134e0ab-cf96-45ec-bae6-60b94995f71b;mammalia;artiodactyla;bovidae;aepyceros;melampus;impala",
+       "c9b58a23-a776-4927-b737-68ed6c34fcba;mammalia;artiodactyla;bovidae;madoqua;guentheri;guenther's dik-dik"
+      ],
+      "scores": [
+       0.7768,
+       0.0646
+      ]
+     },
+     "processed_classification": {
+      "class": "c8ecdc8a-bcb5-4f24-af00-78d183c908fe;mammalia;artiodactyla;bovidae;aepyceros;;aepyceros species",
+      "score": 0.7768,
+      "source": "classifier+rollup_to_genus"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.1095,
+     "bbox": [
+      0.4463,
+      0.4409,
+      0.2394,
+      0.2068
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.985,
+       0.0065
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.985,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0274,
+     "bbox": [
+      0.5023,
+      0.5361,
+      0.2458,
+      0.1113
+     ]
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.017,
+     "bbox": [
+      0.6329,
+      0.5718,
+      0.0491,
+      0.0891
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0023.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9441,
+     "bbox": [
+      0.6153,
+      0.4407,
+      0.3838,
+      0.1992
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9848,
+       0.0038
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9848,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.8987,
+     "bbox": [
+      0.3153,
+      0.4336,
+      0.5171,
+      0.2349
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9832,
+       0.0054
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9832,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0747,
+     "bbox": [
+      0.4102,
+      0.4409,
+      0.2648,
+      0.2014
+     ]
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0183,
+     "bbox": [
+      0.5097,
+      0.5693,
+      0.1588,
+      0.0896
+     ]
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0124,
+     "bbox": [
+      0.413,
+      0.4341,
+      0.2278,
+      0.0688
+     ]
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0104,
+     "bbox": [
+      0.7556,
+      0.6118,
+      0.0366,
+      0.0144
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0024.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9065,
+     "bbox": [
+      0.2606,
+      0.4309,
+      0.4653,
+      0.2358
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9838,
+       0.0041
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9838,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.8327,
+     "bbox": [
+      0.6046,
+      0.478,
+      0.394,
+      0.1831
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.8987,
+       0.0304
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.8987,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0707,
+     "bbox": [
+      0.3875,
+      0.4409,
+      0.2495,
+      0.1924
+     ]
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0125,
+     "bbox": [
+      0.3861,
+      0.4333,
+      0.087,
+      0.0598
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0025.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9292,
+     "bbox": [
+      0.2296,
+      0.4309,
+      0.4824,
+      0.2329
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9789,
+       0.0073
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9789,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.7791,
+     "bbox": [
+      0.5699,
+      0.4805,
+      0.4287,
+      0.1785
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "aca65aaa-8c6d-4b69-94de-842b08b13bd6;mammalia;artiodactyla;bovidae;bos;taurus;domestic cattle"
+      ],
+      "scores": [
+       0.7799,
+       0.0416
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.7799,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.2827,
+     "bbox": [
+      0.3491,
+      0.4312,
+      0.294,
+      0.1038
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9667,
+       0.0116
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9667,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0683,
+     "bbox": [
+      0.4796,
+      0.5654,
+      0.1935,
+      0.0862
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0026.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9355,
+     "bbox": [
+      0.2449,
+      0.4263,
+      0.4468,
+      0.2354
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9709,
+       0.0106
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9709,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.7017,
+     "bbox": [
+      0.4458,
+      0.4707,
+      0.5116,
+      0.1838
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "aca65aaa-8c6d-4b69-94de-842b08b13bd6;mammalia;artiodactyla;bovidae;bos;taurus;domestic cattle"
+      ],
+      "scores": [
+       0.7375,
+       0.1345
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.7375,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0391,
+     "bbox": [
+      0.3426,
+      0.4412,
+      0.287,
+      0.1646
+     ]
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0139,
+     "bbox": [
+      0.4593,
+      0.5603,
+      0.1079,
+      0.0808
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0027.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.8993,
+     "bbox": [
+      0.2495,
+      0.4292,
+      0.4491,
+      0.2266
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9868,
+       0.005
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9868,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.7558,
+     "bbox": [
+      0.4843,
+      0.4653,
+      0.4769,
+      0.1848
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "aca65aaa-8c6d-4b69-94de-842b08b13bd6;mammalia;artiodactyla;bovidae;bos;taurus;domestic cattle"
+      ],
+      "scores": [
+       0.8031,
+       0.0474
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.8031,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0367,
+     "bbox": [
+      0.313,
+      0.4475,
+      0.2051,
+      0.1848
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0028.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.8361,
+     "bbox": [
+      0.2495,
+      0.4448,
+      0.4648,
+      0.2078
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9776,
+       0.0073
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9776,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.2125,
+     "bbox": [
+      0.5278,
+      0.4622,
+      0.3306,
+      0.1802
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "aca65aaa-8c6d-4b69-94de-842b08b13bd6;mammalia;artiodactyla;bovidae;bos;taurus;domestic cattle"
+      ],
+      "scores": [
+       0.7603,
+       0.0936
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.7603,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0504,
+     "bbox": [
+      0.2463,
+      0.4285,
+      0.0824,
+      0.0957
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0029.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.8469,
+     "bbox": [
+      0.2444,
+      0.4514,
+      0.4866,
+      0.2004
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9939,
+       0.0015
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9939,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.1286,
+     "bbox": [
+      0.4463,
+      0.468,
+      0.3741,
+      0.178
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "aca65aaa-8c6d-4b69-94de-842b08b13bd6;mammalia;artiodactyla;bovidae;bos;taurus;domestic cattle"
+      ],
+      "scores": [
+       0.9651,
+       0.014
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9651,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0128,
+     "bbox": [
+      0.2167,
+      0.4575,
+      0.3074,
+      0.0396
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0030.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9002,
+     "bbox": [
+      0.2611,
+      0.427,
+      0.5315,
+      0.2239
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9867,
+       0.0051
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9867,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.4715,
+     "bbox": [
+      0.1685,
+      0.4241,
+      0.3856,
+      0.2148
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9802,
+       0.0102
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9802,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0314,
+     "bbox": [
+      0.5106,
+      0.5481,
+      0.2384,
+      0.0886
+     ]
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0216,
+     "bbox": [
+      0.1634,
+      0.4919,
+      0.0472,
+      0.0544
+     ]
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0211,
+     "bbox": [
+      0.2306,
+      0.5317,
+      0.488,
+      0.1057
+     ]
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.012,
+     "bbox": [
+      0.1662,
+      0.4248,
+      0.1653,
+      0.1157
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0031.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9349,
+     "bbox": [
+      0.3144,
+      0.4072,
+      0.4542,
+      0.2363
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.986,
+       0.0046
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.986,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.8943,
+     "bbox": [
+      0.1509,
+      0.4114,
+      0.4319,
+      0.231
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9851,
+       0.0088
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9851,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0328,
+     "bbox": [
+      0.3273,
+      0.5278,
+      0.3565,
+      0.1064
+     ]
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.014,
+     "bbox": [
+      0.1644,
+      0.5059,
+      0.2556,
+      0.1167
+     ]
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0113,
+     "bbox": [
+      0.4861,
+      0.5454,
+      0.1926,
+      0.0894
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0032.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9782,
+     "bbox": [
+      0.3458,
+      0.3967,
+      0.4634,
+      0.239
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9907,
+       0.0024
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9907,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.854,
+     "bbox": [
+      0.0907,
+      0.4019,
+      0.5319,
+      0.2349
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9871,
+       0.0052
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9871,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0897,
+     "bbox": [
+      0.1458,
+      0.49,
+      0.3778,
+      0.1345
+     ]
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0333,
+     "bbox": [
+      0.4444,
+      0.5305,
+      0.2259,
+      0.0994
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0033.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.961,
+     "bbox": [
+      0.3759,
+      0.385,
+      0.4514,
+      0.2412
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9859,
+       0.0041
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9859,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9429,
+     "bbox": [
+      0.0481,
+      0.3865,
+      0.5023,
+      0.238
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9901,
+       0.0048
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9901,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.3758,
+     "bbox": [
+      0.1208,
+      0.4663,
+      0.3532,
+      0.1477
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.987,
+       0.0024
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.987,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0034.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9494,
+     "bbox": [
+      0.4088,
+      0.3777,
+      0.4491,
+      0.2417
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.989,
+       0.0037
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.989,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.8948,
+     "bbox": [
+      0.0074,
+      0.3777,
+      0.556,
+      0.2383
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9824,
+       0.0085
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9824,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0441,
+     "bbox": [
+      0.0949,
+      0.4524,
+      0.3231,
+      0.1567
+     ]
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0144,
+     "bbox": [
+      0.0,
+      0.4155,
+      0.0426,
+      0.0388
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0035.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9639,
+     "bbox": [
+      0.4315,
+      0.3738,
+      0.4602,
+      0.2419
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9843,
+       0.0048
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9843,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9193,
+     "bbox": [
+      0.0,
+      0.3713,
+      0.5083,
+      0.2417
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9892,
+       0.0054
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9892,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0166,
+     "bbox": [
+      0.1366,
+      0.4001,
+      0.112,
+      0.0354
+     ]
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.0144,
+     "bbox": [
+      0.1398,
+      0.3906,
+      0.2069,
+      0.188
+     ]
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0036.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9517,
+     "bbox": [
+      0.4741,
+      0.3755,
+      0.4593,
+      0.2429
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9863,
+       0.004
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9863,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9315,
+     "bbox": [
+      0.0,
+      0.3733,
+      0.4792,
+      0.2412
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.977,
+       0.007
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.977,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0037.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9495,
+     "bbox": [
+      0.5093,
+      0.3857,
+      0.4685,
+      0.241
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9865,
+       0.0029
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9865,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9472,
+     "bbox": [
+      0.0,
+      0.3813,
+      0.4736,
+      0.2444
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9881,
+       0.0036
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9881,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0038.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9682,
+     "bbox": [
+      0.537,
+      0.3948,
+      0.4611,
+      0.2412
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9862,
+       0.0032
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9862,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9598,
+     "bbox": [
+      0.2116,
+      0.3965,
+      0.3231,
+      0.2244
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9551,
+       0.0151
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9551,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9559,
+     "bbox": [
+      0.0,
+      0.4485,
+      0.3778,
+      0.187
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "aca65aaa-8c6d-4b69-94de-842b08b13bd6;mammalia;artiodactyla;bovidae;bos;taurus;domestic cattle"
+      ],
+      "scores": [
+       0.9634,
+       0.0097
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9634,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0039.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9611,
+     "bbox": [
+      0.5648,
+      0.4014,
+      0.4338,
+      0.2427
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9882,
+       0.0033
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9882,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9558,
+     "bbox": [
+      0.2292,
+      0.4026,
+      0.3333,
+      0.2251
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9815,
+       0.0044
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9815,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.8882,
+     "bbox": [
+      0.0005,
+      0.4463,
+      0.3861,
+      0.1965
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "aca65aaa-8c6d-4b69-94de-842b08b13bd6;mammalia;artiodactyla;bovidae;bos;taurus;domestic cattle"
+      ],
+      "scores": [
+       0.8928,
+       0.0515
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.8928,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0040.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9672,
+     "bbox": [
+      0.6162,
+      0.4065,
+      0.3829,
+      0.2427
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9934,
+       0.0035
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9934,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9542,
+     "bbox": [
+      0.2569,
+      0.408,
+      0.3389,
+      0.2261
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9762,
+       0.0078
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9762,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9429,
+     "bbox": [
+      0.0,
+      0.4634,
+      0.3509,
+      0.1846
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9262,
+       0.0195
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9262,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0041.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9589,
+     "bbox": [
+      0.6542,
+      0.4072,
+      0.3449,
+      0.2419
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9927,
+       0.0035
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9927,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.957,
+     "bbox": [
+      0.2769,
+      0.4087,
+      0.3449,
+      0.2268
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9764,
+       0.0085
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9764,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9394,
+     "bbox": [
+      0.0,
+      0.4644,
+      0.3171,
+      0.1843
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "aca65aaa-8c6d-4b69-94de-842b08b13bd6;mammalia;artiodactyla;bovidae;bos;taurus;domestic cattle"
+      ],
+      "scores": [
+       0.8574,
+       0.0643
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.8574,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0042.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9592,
+     "bbox": [
+      0.2972,
+      0.4077,
+      0.3486,
+      0.2258
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.988,
+       0.0034
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.988,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9557,
+     "bbox": [
+      0.6611,
+      0.405,
+      0.338,
+      0.2424
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9917,
+       0.0022
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9917,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.942,
+     "bbox": [
+      0.0,
+      0.4614,
+      0.3167,
+      0.1858
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9568,
+       0.0096
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9568,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0043.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9525,
+     "bbox": [
+      0.6806,
+      0.4001,
+      0.319,
+      0.2434
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9886,
+       0.0036
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9886,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9522,
+     "bbox": [
+      0.3231,
+      0.4023,
+      0.3426,
+      0.2275
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "dc5dbe17-a8ca-40a6-ac6a-3b6b1d63e6d6;mammalia;artiodactyla;bovidae;eudorcas;thomsonii;thomson's gazelle"
+      ],
+      "scores": [
+       0.9872,
+       0.0034
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9872,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9187,
+     "bbox": [
+      0.0,
+      0.4597,
+      0.3065,
+      0.1841
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "aca65aaa-8c6d-4b69-94de-842b08b13bd6;mammalia;artiodactyla;bovidae;bos;taurus;domestic cattle"
+      ],
+      "scores": [
+       0.7853,
+       0.1426
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.7853,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0044.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9576,
+     "bbox": [
+      0.7019,
+      0.397,
+      0.2968,
+      0.2427
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9927,
+       0.0031
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9927,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9504,
+     "bbox": [
+      0.3528,
+      0.3972,
+      0.3338,
+      0.2278
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9863,
+       0.0032
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9863,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9393,
+     "bbox": [
+      0.0,
+      0.4575,
+      0.2667,
+      0.1912
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "aca65aaa-8c6d-4b69-94de-842b08b13bd6;mammalia;artiodactyla;bovidae;bos;taurus;domestic cattle"
+      ],
+      "scores": [
+       0.9241,
+       0.023
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9241,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0045.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9488,
+     "bbox": [
+      0.7213,
+      0.3933,
+      0.2778,
+      0.2439
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9925,
+       0.0034
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9925,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9451,
+     "bbox": [
+      0.3708,
+      0.3931,
+      0.3356,
+      0.23
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.9848,
+       0.0042
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9848,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9322,
+     "bbox": [
+      0.0,
+      0.4631,
+      0.2769,
+      0.1743
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9594,
+       0.0109
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9594,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0046.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9582,
+     "bbox": [
+      0.7458,
+      0.3906,
+      0.2532,
+      0.2456
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.99,
+       0.0037
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.99,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9499,
+     "bbox": [
+      0.3944,
+      0.3943,
+      0.3343,
+      0.228
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9831,
+       0.0044
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9831,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9327,
+     "bbox": [
+      0.0,
+      0.4656,
+      0.2009,
+      0.1724
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.7009,
+       0.0775
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.7009,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/video_frames/frame_0047.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9571,
+     "bbox": [
+      0.4269,
+      0.3987,
+      0.3361,
+      0.2273
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.993,
+       0.002
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.993,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9493,
+     "bbox": [
+      0.7773,
+      0.397,
+      0.2218,
+      0.2434
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "3f197683-19cb-46ed-af19-362c4bcc0bfd;mammalia;artiodactyla;bovidae;damaliscus;lunatus;topi"
+      ],
+      "scores": [
+       0.9886,
+       0.0049
+      ]
+     },
+     "processed_classification": {
+      "class": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+      "score": 0.9886,
+      "source": "classifier"
+     }
+    },
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9233,
+     "bbox": [
+      0.0,
+      0.4692,
+      0.1963,
+      0.1729
+     ],
+     "raw_classifications": {
+      "classes": [
+       "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;artiodactyla;bovidae;alcelaphus;buselaphus;hartebeest",
+       "8c48ed75-e275-4188-a6b1-55929d298e85;mammalia;artiodactyla;bovidae;nanger;granti;grant's gazelle"
+      ],
+      "scores": [
+       0.577,
+       0.1782
+      ]
+     },
+     "processed_classification": {
+      "class": "8cf3fce2-0078-4347-9e46-5324fd12f8ed;mammalia;artiodactyla;bovidae;;;bovidae family",
+      "score": 0.9374,
+      "source": "classifier+rollup_to_family"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  }
+ ]
+}

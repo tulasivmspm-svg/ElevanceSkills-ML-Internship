@@ -1,0 +1,167 @@
+{
+ "info": {
+  "format_version": "20261015"
+ },
+ "predictions": [
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/dog.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9366,
+     "bbox": [
+      0.3405,
+      0.0891,
+      0.4455,
+      0.8886
+     ],
+     "raw_classifications": {
+      "classes": [
+       "3d80f1d6-b1df-4966-9ff4-94053c7a902a;mammalia;carnivora;canidae;canis;familiaris;domestic dog",
+       "d3d5325f-b055-4925-b875-5cd28af54215;mammalia;carnivora;canidae;canis;;canis species"
+      ],
+      "scores": [
+       0.9481,
+       0.0427
+      ]
+     },
+     "processed_classification": {
+      "class": "3d80f1d6-b1df-4966-9ff4-94053c7a902a;mammalia;carnivora;canidae;canis;familiaris;domestic dog",
+      "score": 0.9481,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/elephant.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9574,
+     "bbox": [
+      0.1808,
+      0.14,
+      0.659,
+      0.7352
+     ],
+     "raw_classifications": {
+      "classes": [
+       "55631055-3e0e-4b7a-9612-dedebe9f78b0;mammalia;proboscidea;elephantidae;loxodonta;africana;african elephant",
+       "c134e0ab-cf96-45ec-bae6-60b94995f71b;mammalia;artiodactyla;bovidae;aepyceros;melampus;impala"
+      ],
+      "scores": [
+       0.9968,
+       0.0003
+      ]
+     },
+     "processed_classification": {
+      "class": "55631055-3e0e-4b7a-9612-dedebe9f78b0;mammalia;proboscidea;elephantidae;loxodonta;africana;african elephant",
+      "score": 0.9968,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/lion.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9446,
+     "bbox": [
+      0.0452,
+      0.0029,
+      0.7695,
+      0.9943
+     ],
+     "raw_classifications": {
+      "classes": [
+       "ddf59264-185a-4d35-b647-2785792bdf54;mammalia;carnivora;felidae;panthera;leo;lion",
+       "6ffe2064-cabd-4fcb-8c1b-f168bf381aab;mammalia;artiodactyla;bovidae;tragelaphus;oryx;common eland"
+      ],
+      "scores": [
+       0.9586,
+       0.0164
+      ]
+     },
+     "processed_classification": {
+      "class": "ddf59264-185a-4d35-b647-2785792bdf54;mammalia;carnivora;felidae;panthera;leo;lion",
+      "score": 0.9586,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/parrot.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.8654,
+     "bbox": [
+      0.147,
+      0.0692,
+      0.7783,
+      0.9213
+     ],
+     "raw_classifications": {
+      "classes": [
+       "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+       "2745c505-069b-42d5-83d9-4aedd59166e7;aves;psittaciformes;psittacidae;platycercus;elegans;crimson rosella"
+      ],
+      "scores": [
+       0.1564,
+       0.1003
+      ]
+     },
+     "processed_classification": {
+      "class": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "score": 0.8654,
+      "source": "detector"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  },
+  {
+   "filepath": "D:/ml internship/ElevanceSkills-ML-Internship/project_2-Animal-Detection/test_inputs/turtule.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.929,
+     "bbox": [
+      0.1171,
+      0.2719,
+      0.6171,
+      0.621
+     ],
+     "raw_classifications": {
+      "classes": [
+       "446887df-3477-4f4a-a434-852f96ba48d9;reptilia;testudines;emydidae;actinemys;marmorata;western pond turtle",
+       "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird"
+      ],
+      "scores": [
+       0.4629,
+       0.0845
+      ]
+     },
+     "processed_classification": {
+      "class": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "score": 0.6501,
+      "source": "classifier+rollup_to_kingdom"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  }
+ ]
+}

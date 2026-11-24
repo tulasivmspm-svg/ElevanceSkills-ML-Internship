@@ -1,0 +1,20 @@
+@'
+# Dataset and large input files
+dataset/
+test_inputs/video_tests/
+test_videos/
+
+# Generated videos
+outputs/*.mp4
+outputs/**/*.mp4
+
+# Unnecessary model weights
+outputs/**/last.pt
+yolov8n.pt
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+'@ | Set-Content .\project_2-Animal-Detection\.gitignore
+test_inputs/video_frames/

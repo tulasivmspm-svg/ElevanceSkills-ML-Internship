@@ -1,0 +1,39 @@
+{
+ "info": {
+  "format_version": "20261015"
+ },
+ "predictions": [
+  {
+   "filepath": "D:\\ml internship\\ElevanceSkills-ML-Internship\\project_2-Animal-Detection\\dataset\\species detection\\test\\images\\banded_civet_104_JPG.rf.2d408be7ff5750bbde4157235a8c941a.jpg",
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.943,
+     "bbox": [
+      0.4531,
+      0.4167,
+      0.1899,
+      0.1137
+     ],
+     "raw_classifications": {
+      "classes": [
+       "c3a6329b-0a76-4063-8f4e-b3e95aa3a9e7;mammalia;carnivora;viverridae;hemigalus;derbyanus;banded civet",
+       "96ef11b4-e905-4ab1-b0c2-583e773fd71e;mammalia;carnivora;viverridae;diplogale;hosei;hose's civet"
+      ],
+      "scores": [
+       1.0,
+       0.0
+      ]
+     },
+     "processed_classification": {
+      "class": "c3a6329b-0a76-4063-8f4e-b3e95aa3a9e7;mammalia;carnivora;viverridae;hemigalus;derbyanus;banded civet",
+      "score": 1.0,
+      "source": "classifier"
+     }
+    }
+   ],
+   "model_version": "4.0.3a"
+  }
+ ]
+}
